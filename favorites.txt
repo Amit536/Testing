@@ -1,4 +1,10 @@
+Food-List:
 Rice
 Daal
 Curry 
 chapati
+
+Movie-List:
+orient express
+sharlock holmes
+
