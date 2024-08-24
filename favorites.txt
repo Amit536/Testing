@@ -1,8 +1,9 @@
 Food-List:
 Rice
-Daal
-Curry 
-chapati
+Chaap
+Daal-Fry
+Curry-Veg
+chapati,Naan
 
 Movie-List:
 orient express
