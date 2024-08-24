@@ -1,13 +1,11 @@
 Food-List:
-Rice
-Chaap
-Daal-Fry
-Curry-Veg
-chapati,Naan
+Allu
+Tamatar
 
 Movie-List:
+Re-Zero
+Black Clover
+Demon-Slayer
 orient express
 sharlock holmes
 fall-guy
-Re-Zero
-Black Clover
