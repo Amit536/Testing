@@ -1,3 +1,13 @@
-Daal
-Curry 
-chapati
+Food-List:
+Rice
+Chaap
+Daal-Fry
+Curry-Veg
+chapati,Naan
+
+Movie-List:
+orient express
+sharlock holmes
+fall-guy
+Re-Zero
+Black Clover
