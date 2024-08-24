@@ -1,6 +1,11 @@
 Food-List:
 Allu
 Tamatar
+Rice
+Chaap
+Daal-Fry
+Curry-Veg
+chapati,Naan
 
 Movie-List:
 Re-Zero
