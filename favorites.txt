@@ -10,3 +10,6 @@ Movie-List:
 Re-Zero-0
 Black Clover-0
 Demon-Slayer-0
+Re-Zero-2
+Black Clover-2
+Demon-Slayer-2
