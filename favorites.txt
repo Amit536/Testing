@@ -7,6 +7,6 @@ Curry-Veg
 Naan
 
 Movie-List:
-Re-Zero
-Black Clover
-Demon-Slayer
+Re-Zero-0
+Black Clover-0
+Demon-Slayer-0
